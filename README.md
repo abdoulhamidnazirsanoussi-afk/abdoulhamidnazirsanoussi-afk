@@ -1,69 +1,15 @@
+# 💫 About Me:
+Je suis un étudiant en première année à l’ingénierie informatique 
 
-# 👋 Bonjour, je suis Abdoul Hamid Nazir Sanoussi
 
-🎓 **Étudiant à HESTIM**  
-📍 **Casablanca, Maroc**
-
-Bienvenue sur mon profil GitHub ! 🚀
-
-## 👨‍💻 À propos de moi
-
-Je suis étudiant à **HESTIM** et je développe progressivement mes compétences
-académiques, techniques et professionnelles à travers l'apprentissage et la
-réalisation de projets concrets.
-
-Je suis motivé par l'apprentissage continu, la découverte de nouvelles
-technologies et la création de projets qui me permettent de mettre mes
-connaissances en pratique.
-
-## 🎯 Mes objectifs
-
-- 📚 Approfondir continuellement mes connaissances
-- 💻 Développer des projets personnels et académiques
-- 🚀 Acquérir davantage d'expérience pratique
-- 🤝 Collaborer avec d'autres étudiants et développeurs
-- 🌱 Construire progressivement mon parcours professionnel
-
-## 🛠️ Compétences
-
-> Cette section sera enrichie au fur et à mesure de mon parcours.
-
-- 📖 Apprentissage continu
-- 🧩 Résolution de problèmes
-- 🤝 Travail en équipe
-- 💡 Curiosité et autonomie
-
-## 📂 Mes projets
-
-Je construis progressivement mon portfolio de projets.
-
-| Projet | Description | Technologies |
-|---|---|---|
-| 🚧 À venir | Projet personnel / académique | À définir |
-| 🚧 À venir | Projet personnel / académique | À définir |
-| 🚧 À venir | Projet personnel / académique | À définir |
-
-## 🎓 Formation
-
-### HESTIM — Casablanca, Maroc
-
-**Étudiant**
-
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
-
-## 🌐 Me retrouver
-
-💼 **LinkedIn:**  
-[Abdoul Hamid Nazir Sanoussi](https://www.linkedin.com/in/abdoul-hamid-nazir-sanoussi-049613442/)
-
-📍 Casablanca, Maroc
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nazir Sanoussi Abdoul Hamid ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdoul Hamid Nazir Sanoussi ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Abdoul Hamid Nazir Sanoussi ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abdoul Hamid Nazir Sanoussi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdoulhamidnazirsanoussi@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Abdoul Hamid Nazir Sanoussi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Abdoul Hamid Nazir Sanoussi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abdoul Hamid Nazir Sanoussi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Abdoul Hamid Nazir Sanoussi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐ *Merci de visiter mon profil GitHub !*
-
-> 💡 Remplace `TON_USERNAME` par ton nom d'utilisateur GitHub pour activer les statistiques.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
